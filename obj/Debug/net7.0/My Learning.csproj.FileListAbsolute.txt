@@ -1,0 +1,15 @@
+C:\Users\Admin\OneDrive\Desktop\My Learning\bin\Debug\net7.0\My Learning.exe
+C:\Users\Admin\OneDrive\Desktop\My Learning\bin\Debug\net7.0\My Learning.deps.json
+C:\Users\Admin\OneDrive\Desktop\My Learning\bin\Debug\net7.0\My Learning.runtimeconfig.json
+C:\Users\Admin\OneDrive\Desktop\My Learning\bin\Debug\net7.0\My Learning.dll
+C:\Users\Admin\OneDrive\Desktop\My Learning\bin\Debug\net7.0\My Learning.pdb
+C:\Users\Admin\OneDrive\Desktop\My Learning\obj\Debug\net7.0\My Learning.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Desktop\My Learning\obj\Debug\net7.0\My Learning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Desktop\My Learning\obj\Debug\net7.0\My Learning.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Desktop\My Learning\obj\Debug\net7.0\My Learning.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Desktop\My Learning\obj\Debug\net7.0\My Learning.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\My Learning\obj\Debug\net7.0\My Learning.dll
+C:\Users\Admin\OneDrive\Desktop\My Learning\obj\Debug\net7.0\refint\My Learning.dll
+C:\Users\Admin\OneDrive\Desktop\My Learning\obj\Debug\net7.0\My Learning.pdb
+C:\Users\Admin\OneDrive\Desktop\My Learning\obj\Debug\net7.0\My Learning.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Desktop\My Learning\obj\Debug\net7.0\ref\My Learning.dll
